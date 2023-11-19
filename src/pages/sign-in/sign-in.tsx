@@ -4,8 +4,7 @@ import { useTranslation } from "react-i18next"
 import { RouteChildrenProps } from "react-router"
 import { Link } from "react-router-dom"
 import "./sign-in.scss"
-
-interface Props extends RouteChildrenProps { }
+type Props={}
 
 export default function SignIn(props: Props) {
 

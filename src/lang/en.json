@@ -10,5 +10,6 @@
         "logout": "Logout",
         "emailRequired": "Please input your email!",
         "passwordRequired": "Please input your password!"
-    }
+    },
+    "Home":"Trang chủ"
 }

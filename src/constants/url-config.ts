@@ -5,7 +5,11 @@ enum ROUTE_PATHS {
 	"SignIn" = "/sign-in",
 	"SignUp" = "/sign-up",
 	"ForgotPassword" = "forgot-password",
-	"Profile" = "/profile"
+	"Profile" = "/profile",
+	"Shop" = "/shop",
+	"Cart" = "/cart",
+	"Checkout" = "/checkout",
+	"ProductDetail" = "/product-detail"
 }
 
 //this variable is using for params url
